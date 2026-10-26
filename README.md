@@ -59,9 +59,7 @@ The brief asked how to:
 
 ## My role
 
-I owned the redesign: the new visual concepts and the interactive prototype, built in HTML, CSS and JavaScript with Chart.js on top of Charly's existing page.
-
-**Team:** Komal Junaid, Zoya Habib, Roman Oleinikov, Kamali Ramalingam
+I owned the redesign within a team of four: the new visual concepts and the interactive prototype, built in HTML, CSS and JavaScript with Chart.js on top of Charly's existing page.
 
 ## About this repository
 

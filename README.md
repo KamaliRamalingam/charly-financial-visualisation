@@ -2,7 +2,7 @@
 
 A data visualisation redesign for **Charly**, a Swedish fintech that shows working parents how parental leave affects their lifetime income and pension. Built as a Hyper Island client project.
 
-**Hyper Island · Data Visualization · April–May 2026 · Client project · Team of four**
+**Hyper Island · Visualising & Presenting Data · April–May 2026 · Client project · Team of four**
 
 ![The complete redesigned screen, before and after](images/04_complete_screen.png)
 
